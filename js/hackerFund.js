@@ -16,7 +16,7 @@ function performOperation2 (x,y) {
 }
 
 function performOperation3 (x,y) {
-	return x*y;
+	return x*y; 
 }
 
 function performOperation4 (x,y) {
